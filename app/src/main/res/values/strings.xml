@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Book Listing App</string>
+    <string name="no_books">No Books Found</string>
+    <string name="no_internet">No Internet Connection</string>
+    <string name="search_books">Search your books</string>
+    <string name="topic_to_search">topic</string>
+    <string name="default_topic">android</string>
+
+</resources>
